@@ -14,6 +14,7 @@ class CommentBox extends Component {
 
     // call an action creator
     // save the comment entered
+
     this.setState({ comment: "" });
   };
 
